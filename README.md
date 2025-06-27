@@ -4,7 +4,7 @@ I'm a **Biomedical Engineer** and **Product Consultant at Nexion**, deeply passi
 
 ---
 
-## 💡 Product Philosophy
+##  Product Philosophy
 
 I am driven by a passion for innovating products through deep exploration of their underlying mechanisms and rigorous validation of research. I thrive on crafting efficient, scalable solutions and introducing automation features that enhance performance and accelerate meaningful technological advancement.
 
@@ -12,7 +12,7 @@ My most successful product to date is the **Continuous Neurotransmitter Monitori
 
 ---
 
-## 🧠 Professional Background
+##  Professional Background
 
 - **Biomedical Engineer** with a degree from the **American University of Science and Technology (AUST)**
 - **Consultant at Nexion** – supported product development, research strategy, and helped secure $300K in pre-seed funding
@@ -20,7 +20,7 @@ My most successful product to date is the **Continuous Neurotransmitter Monitori
 
 ---
 
-## 🌍 Experience Highlights
+## Experience Highlights
 
 - 🛰️ **TechGirls Program** (U.S. State Department): Advanced training and job shadowing at **NASA**, **Virginia Tech**, and **TechChange**
 - 🧬 **Smart Health Product Manager** at Silverberry Genomix (Silicon Valley): Led genotype-phenotype research and UI/UX enhancement
@@ -28,15 +28,15 @@ My most successful product to date is the **Continuous Neurotransmitter Monitori
 
 ---
 
-## 📚 Certifications
+## Certifications
 
-- 
+- Active IEEE Member for 4+ years
 - IEEE Brain, IEEE Young Professionals
 - Specialized training in **Cybersecurity**, **Artificial Intelligence**, and **Data Science**
 
 ---
 
-## 📂 Explore My Portfolio
+## Explore My Portfolio
 
 Here you'll find case studies, research-backed pitch decks, and real-world product deliverables from projects including:
 
